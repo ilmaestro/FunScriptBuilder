@@ -1,0 +1,15 @@
+{
+  "name": "FunScriptBuilder",
+  "version": "1.0.0",
+  "description": "A FunScript starter project",
+  "scripts": {
+  },
+  "author": "ryan kilkenny",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-run": "^1.6.8",
+    "gulp-util": "^3.0.5"
+  }
+}

@@ -1,0 +1,4 @@
+.paket/paket.exe
+node_modules
+packages
+wwwroot/app.js
