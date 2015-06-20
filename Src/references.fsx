@@ -6,6 +6,3 @@
 #r "FunScript.Interop.dll"
 #r "FunScript.TypeScript.Binding.lib.dll"
 #r "FunScript.TypeScript.Binding.jquery.dll"
-
-// Set to current directory in order to reference FunScript.Interop.dll (which I copied over)
-System.Environment.CurrentDirectory <- __SOURCE_DIRECTORY__

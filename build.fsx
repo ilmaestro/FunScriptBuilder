@@ -13,4 +13,4 @@ let compile expr filepath =
     System.IO.File.WriteAllText(filepath, sourceWrapped)
 
 //Compile the JS
-compile <@@ Funscript.Program.main() @@> "../wwwroot/app.js"
+compile <@@ Funscript.Program.main() @@> "./wwwroot/app.js"
