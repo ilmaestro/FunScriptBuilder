@@ -1,6 +1,5 @@
 #load "references.fsx"
 
-open System.IO
 open FunScript
 open FunScript.TypeScript
 
